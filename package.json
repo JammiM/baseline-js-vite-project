@@ -14,6 +14,7 @@
     "vite": "^8.0.9"
   },
   "dependencies": {
-    "@morev/stylelint-plugin": "^0.5.0"
+    "@morev/stylelint-plugin": "^0.5.0",
+    "axe-core": "^4.11.3"
   }
 }
