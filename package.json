@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "eslint": "npx eslint .",
+    "stylelint": "npx stylelint '**/*.css' --fix",
     "preview": "vite preview"
   },
   "devDependencies": {
