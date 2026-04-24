@@ -8,6 +8,7 @@
     "build": "vite build",
     "eslint": "npx eslint .",
     "stylelint": "npx stylelint '**/*.css' --fix",
+    "test": "vitest --run",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -16,7 +17,8 @@
     "globals": "^17.5.0",
     "stylelint": "^17.8.0",
     "stylelint-config-standard": "^40.0.0",
-    "vite": "^8.0.9"
+    "vite": "^8.0.9",
+    "vitest": "^4.1.5"
   },
   "dependencies": {
     "@morev/stylelint-plugin": "^0.5.0",
