@@ -22,4 +22,4 @@ A basic js vite app to be used as a template
 
 ### Unit testing
 
-[title](https://www.example.com)
+[Vitest](https://vitest.dev)
