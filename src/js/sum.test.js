@@ -1,6 +1,7 @@
+import { expect, describe, it } from "vitest";
 import { sum } from "./sum.js";
 
-describe("Initial test", () => {
+describe("my first test", () => {
   it("works", () => {
     expect(true);
   });
